@@ -19,12 +19,15 @@ opencv-python==4.2.0.34
 pefile==2019.4.18
 Pillow==7.1.2
 psutil==5.7.0
+PyAudio==0.2.11
 pycaw==20181226
 pycparser==2.20
 PyInstaller==3.6
 pylint==2.5.0
 pyperclip==1.8.0
 pyTelegramBotAPI==3.6.7
+pywin32==227
+pywin32-ctypes==0.2.0
 requests==2.23.0
 six==1.14.0
 toml==0.10.0
