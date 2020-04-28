@@ -19,7 +19,6 @@ opencv-python==4.2.0.34
 pefile==2019.4.18
 Pillow==7.1.2
 psutil==5.7.0
-PyAudio==0.2.11
 pycaw==20181226
 pycparser==2.20
 pylint==2.5.0
