@@ -26,7 +26,6 @@ PyInstaller==3.6
 pylint==2.5.0
 pyperclip==1.8.0
 pyTelegramBotAPI==3.6.7
-pywin32==227
 pywin32-ctypes==0.2.0
 requests==2.23.0
 six==1.14.0
