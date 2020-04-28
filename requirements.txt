@@ -26,7 +26,7 @@ pycaw==20181226
 pycparser==2.20
 pylint==2.5.0
 pyperclip==1.8.0
-pyTelegramBotAPI==3.6.6
+pyTelegramBotAPI==3.6.7
 pywin32==227
 pywin32-ctypes==0.2.0
 six==1.14.0
